@@ -1,11 +1,22 @@
-**radhikapandey23/radhikapandey23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Radhika Pandey  
 
-Here are some ideas to get you started:
+💻 I’m a Computer Science student and a passionate Web Developer.  
+I have learned and worked with **JavaScript, Node.js, Express.js, and React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+🚀 I enjoy building **real-world projects** and applying backend concepts like  
+APIs, authentication, and database integration.
 
+📌 Currently, I am focusing on:
+- Strengthening backend development skills  
+- Building full-stack and backend-focused projects  
+- Preparing for technical interviews  
+
+🛠 Tech Stack:
+- JavaScript  
+- Node.js  
+- Express.js  
+- React  
+- MongoDB (if you’ve used it)
+
+📂 You can find my projects below.  
+I’m always eager to learn, improve, and build better applications.
