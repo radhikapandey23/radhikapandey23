@@ -16,7 +16,7 @@ APIs, authentication, and database integration.
 - Node.js  
 - Express.js  
 - React  
-- MongoDB (if you’ve used it)
-
+- MongoDB
+  
 📂 You can find my projects below.  
 I’m always eager to learn, improve, and build better applications.
